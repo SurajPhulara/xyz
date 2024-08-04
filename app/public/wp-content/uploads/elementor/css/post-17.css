@@ -1,0 +1,43 @@
+.elementor-17 .elementor-element.elementor-element-10d33be{--display:flex;--background-transition:0.3s;}.elementor-17 .elementor-element.elementor-element-1e4692c.elementor-element{--align-self:stretch;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-field-group{padding-right:calc( 60px/2 );padding-left:calc( 60px/2 );margin-bottom:24px;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-form-fields-wrapper{margin-left:calc( -60px/2 );margin-right:calc( -60px/2 );margin-bottom:-24px;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-field-group.recaptcha_v3-bottomleft, .elementor-17 .elementor-element.elementor-element-1e4692c .elementor-field-group.recaptcha_v3-bottomright{margin-bottom:0;}body.rtl .elementor-17 .elementor-element.elementor-element-1e4692c .elementor-labels-inline .elementor-field-group > label{padding-left:17px;}body:not(.rtl) .elementor-17 .elementor-element.elementor-element-1e4692c .elementor-labels-inline .elementor-field-group > label{padding-right:17px;}body .elementor-17 .elementor-element.elementor-element-1e4692c .elementor-labels-above .elementor-field-group > label{padding-bottom:17px;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-field-type-html{padding-bottom:7px;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper){background-color:#ffffff;border-width:1px 1px 1px 1px;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-field-group .elementor-select-wrapper select{background-color:#ffffff;border-width:1px 1px 1px 1px;}.elementor-17 .elementor-element.elementor-element-1e4692c .e-form__buttons__wrapper__button-next{background-color:#61CE70;color:#ffffff;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-button[type="submit"]{background-color:#61CE70;color:#ffffff;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-button[type="submit"] svg *{fill:#ffffff;}.elementor-17 .elementor-element.elementor-element-1e4692c .e-form__buttons__wrapper__button-previous{color:#ffffff;}.elementor-17 .elementor-element.elementor-element-1e4692c .e-form__buttons__wrapper__button-next:hover{color:#ffffff;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-button[type="submit"]:hover{color:#ffffff;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-button[type="submit"]:hover svg *{fill:#ffffff;}.elementor-17 .elementor-element.elementor-element-1e4692c .e-form__buttons__wrapper__button-previous:hover{color:#ffffff;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-message.elementor-message-success{color:#D82F2F;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-message.elementor-message-danger{color:#111111;}.elementor-17 .elementor-element.elementor-element-1e4692c .elementor-message.elementor-help-inline{color:#2D09E9;}.elementor-17 .elementor-element.elementor-element-1e4692c{--e-form-steps-indicators-spacing:14px;--e-form-steps-indicator-padding:38px;--e-form-steps-indicator-inactive-primary-color:#BABFC5;--e-form-steps-indicator-inactive-secondary-color:#ffffff;--e-form-steps-indicator-active-primary-color:#61CE70;--e-form-steps-indicator-active-secondary-color:#ffffff;--e-form-steps-indicator-completed-primary-color:#61CE70;--e-form-steps-indicator-completed-secondary-color:#ffffff;--e-form-steps-divider-width:4px;--e-form-steps-divider-gap:0px;}/* Start custom CSS for form, class: .elementor-element-1e4692c */.e-form__indicators__indicator--state-completed + .e-form__indicators__indicator__separator {
+    background-color: #61CE70 !important;
+}
+
+.e-form__indicators__indicator--state-completed  > .e-form__indicators__indicator--shape-circle{
+    border: 0 !important;
+}
+
+.e-form__indicators__indicator--shape-circle{
+    border-width: 3px !important;
+}
+
+
+.e-form__buttons__wrapper__button-previous::before {
+  content: '\2190'; /* Unicode for left arrow (←) */
+  margin-right: 8px; /* Adjust spacing between arrow and text */
+}
+
+.e-form__buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.elementor-field-type-next {
+  margin-left: auto; /* Pushes the button to the right */
+}
+
+.e-form__buttons__wrapper{
+    max-width: 200px;
+}
+
+
+.e-form__buttons__wrapper__button-next::after {
+  content: '\2192'; /* Unicode for right arrow (→) */
+  margin-left: 8px; /* Adjust spacing between the text and arrow */
+}
+
+
+.elementor-field-label{
+    color: black !important;
+    font-size: 24px;
+    
+}/* End custom CSS */

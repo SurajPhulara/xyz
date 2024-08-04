@@ -1,0 +1,4 @@
+[03-Aug-2024 20:54:41 UTC] PHP Warning:  Undefined variable $currentPluginVersion in C:\Users\Suraj Phulara\Local Sites\test\app\public\wp-content\plugins\funnelforms-free\admin\Healthcheck.php on line 125
+[03-Aug-2024 22:26:34 UTC] PHP Warning:  Undefined array key "form_fields" in C:\Users\Suraj Phulara\Local Sites\test\app\public\wp-content\plugins\pro-elements\modules\forms\classes\ajax-handler.php on line 121
+[03-Aug-2024 22:27:40 UTC] PHP Warning:  Undefined array key "form_fields" in C:\Users\Suraj Phulara\Local Sites\test\app\public\wp-content\plugins\pro-elements\modules\forms\classes\ajax-handler.php on line 121
+[03-Aug-2024 22:28:19 UTC] PHP Warning:  Undefined array key "form_fields" in C:\Users\Suraj Phulara\Local Sites\test\app\public\wp-content\plugins\pro-elements\modules\forms\classes\ajax-handler.php on line 121
